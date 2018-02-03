@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://update.xiangyanggame.com/ipa/xygame.ipa</string>
+                    <string>http://update.3uok.com/ipa/xdyx.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-		<string>com.xiangyang.game</string>
+		<string>com.brother.game</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>象样游戏</string>
+                <string>兄弟游戏</string>
             </dict>
         </dict>
     </array>
